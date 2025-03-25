@@ -1,0 +1,12 @@
+{
+    "name": "wei/php_composer",
+    "authors": [
+        {
+            "name": "Wei Yang",
+            "email": "weix0015@stud.kea.dk"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
